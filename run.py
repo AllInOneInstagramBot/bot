@@ -1,0 +1,3 @@
+import AllInOneInstagramBot
+
+AllInOneInstagramBot.run()
